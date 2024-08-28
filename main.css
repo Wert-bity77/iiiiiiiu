@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+.container {
+    max-width: 100%;
+    width: 1220px;
+    margin:  0 auto;
+    display: flex;
+    justify-content: end;
+    
+    
+}
+.h3 {
+    color: black;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #232323;
+    margin-top: 45px;
+}
+
+
+.cardwrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+
+
+    
+}
+
+.sarvi {
+    position: relative;
+     right: 1000px;
+}
+
+.card {
+    text-align: center;
+    margin-top: 200px;
+    color: #fff;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+
+}
+
+.p {
+    padding: 0 24px 24px 24px;
+}
+
+
+.aim {
+    font-size: 88px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 
+
+}
+
+.img1 {
+    border-radius: 50px;
+}
+ * crypto-company *{
+    position: relative;
+    left: 500px;
+    width: 40px;
+    height: 40px;
+    
+ }
+
+.wes {
+    color: black;
+}
+.a {
+    color: #fff;
+    font-size: 20px;
+}
+
+
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+}
+
+
+.ul1 {
+    display: flex;
+    gap: 20px;
+}
+.header {
+    background-color: blueviolet;
+}
